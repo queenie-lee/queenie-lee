@@ -14,7 +14,8 @@ class CurrentlyLearning extends SoftwareEngineer {
 }
 
 class CompletedLearning extends SoftwareEngineer {
-  completed = ['Cloud Computing', 'Computer Systems', 'Data and Knowledge Management', 'Fundamentals of Computing', 'Information Systems', 'Programming in Java'];
+  completed = ['Cloud Computing', 'Computer Systems', 'Data and Knowledge Management',
+  'Fundamentals of Computing', 'Information Systems', 'Programming in Java'];
 }
 
 class Skills extends SoftwareEngineer {
