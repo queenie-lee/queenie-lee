@@ -8,13 +8,13 @@ class Bio extends SoftwareEngineer {
 }
 
 class CurrentlyLearning extends SoftwareEngineer {
-  current = ['Cloud Computing', 'Data and Knowledge Management', 'Software Design and Principles'];
+  current = ['Software Design and Programming'];
   degree = 'MSc Computer Science';
   university = 'Birkbeck, University of London';
 }
 
 class CompletedLearning extends SoftwareEngineer {
-  completed = ['Programming in Java', 'Information Systems', 'Computer Systems', 'Fundamentals of Computing'];
+  completed = ['Cloud Computing', 'Computer Systems', 'Data and Knowledge Management', 'Fundamentals of Computing', 'Information Systems', 'Programming in Java'];
 }
 
 class Skills extends SoftwareEngineer {
