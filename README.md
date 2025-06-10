@@ -65,7 +65,7 @@ I'm committed to continuous learning and applying academic knowledge to practica
 
 ## 📫 Connect with Me
 
-- **LinkedIn**: [linkedin.com/in/queenie-lee](https://linkedin.com/in/queenie-lee)
+- **LinkedIn**: [linkedin.com/in/queenie-lee](https://linkedin.com/in/queenielee)
 - **Email**: queenie.lee[at]live.ca
 
 ---
