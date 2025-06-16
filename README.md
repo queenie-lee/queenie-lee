@@ -35,8 +35,8 @@ I'm passionate about applying software engineering principles to solve real-worl
 
 ## 🚀 Featured Projects
 
-### Stack-Based Virtual Machine Interpreter
-Implemented using **Java 21** with **Spring Framework integration**. Features advanced OOP concepts including **sealed classes**, **pattern matching**, and **reflection-based instruction factories**. Built with comprehensive **dependency injection**, **polymorphic instruction execution**, and **enterprise-grade testing practices** using JUnit. Demonstrates mastery of modern Java features, software architecture patterns, and professional development workflows. [View on GitHub](https://github.com/queenie-lee/java-sml-interpreter)
+### Stack-Based Simple Machine Language (SML) Interpreter
+Built with **Java 21** featuring **Spring Framework integration** and stack-based execution model. Implemented advanced OOP concepts including **sealed classes**, **pattern matching**, and **reflection-based instruction factories**. Features comprehensive **dependency injection**, **polymorphic instruction execution**, and **enterprise-grade testing** with JUnit. Demonstrates proficiency in modern Java features, software architecture patterns, and professional development workflows. [View on GitHub](https://github.com/queenie-lee/java-sml-interpreter)
 
 ### Piazza API - Social Media Microservice
 Built with **OpenAPI specifications**, **Docker containerisation**, and **Kubernetes deployment** featuring load balancing for automated scaling and high availability. Implemented RESTful API endpoints, database integration, and comprehensive testing suite. Demonstrates cloud-native architecture, containerization best practices, and scalable microservice design patterns. [View on GitHub](https://github.com/queenie-lee/piazza-social-api)
