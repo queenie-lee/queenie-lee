@@ -2,9 +2,9 @@
 
 ## About Me
 
-I'm a technology enthusiast currently pursuing an **MSc Computer Science** at Birkbeck, University of London (graduating 2025) with a **Distinction average**. I'm passionate about applying software engineering principles to solve real-world problems and creating solutions that empower teams through collaborative development.
+I'm a technology enthusiast currently pursuing an **MSc Computer Science** at Birkbeck, University of London (graduating 2025). I have **completed all taught modules with distinction average** while maintaining full-time professional work responsibilities, and am currently working on my thesis component. This achievement reflects my commitment to excellence and ability to effectively balance demanding academic and professional commitments.
 
-With a unique background spanning business operations and technical problem-solving, I bring a practical perspective to software development, focusing on building tools that bridge business needs with technical excellence.
+I'm passionate about applying software engineering principles to solve real-world problems and creating solutions that empower teams through collaborative development. With a unique background spanning business operations and technical problem-solving, I bring a practical perspective to software development, focusing on building tools that bridge business needs with technical excellence.
 
 ## 🔭 Current Focus
 
@@ -35,11 +35,11 @@ With a unique background spanning business operations and technical problem-solv
 
 ## 🚀 Featured Projects
 
-### Java Virtual Machine Interpreter
-Implemented instruction subclasses and reflection-based architecture for a stack-based virtual machine, demonstrating proficiency in Java design patterns and software development lifecycle best practices.
+### Stack-Based Virtual Machine Interpreter
+Implemented using **Java 21** with **Spring Framework integration**. Features advanced OOP concepts including **sealed classes**, **pattern matching**, and **reflection-based instruction factories**. Built with comprehensive **dependency injection**, **polymorphic instruction execution**, and **enterprise-grade testing practices** using JUnit. Demonstrates mastery of modern Java features, software architecture patterns, and professional development workflows. [View on GitHub](https://github.com/queenie-lee/java-sml-interpreter)
 
 ### Piazza API - Social Media Microservice
-Developed a Twitter-like service with OpenAPI specifications, Docker containerisation, and Kubernetes deployment featuring load balancing for automated scaling and high availability. [View on GitHub](https://github.com/queenie-lee/piazza-social-api)
+Built with **OpenAPI specifications**, **Docker containerisation**, and **Kubernetes deployment** featuring load balancing for automated scaling and high availability. Implemented RESTful API endpoints, database integration, and comprehensive testing suite. Demonstrates cloud-native architecture, containerization best practices, and scalable microservice design patterns. [View on GitHub](https://github.com/queenie-lee/piazza-social-api)
 
 ## 🌱 Learning Journey
 
