@@ -8,7 +8,7 @@ I'm passionate about applying software engineering principles to solve real-worl
 
 ## 🔭 Current Focus
 
-- **Academic Research**: Working on my thesis project involving **Multi-Cloud Kubernetes Deployment Software**
+- **Academic Research**: Completed my thesis project - **Multi-Cloud Kubernetes Deployment Tool**
 - **Cloud Architecture**: Developing AWS-based systems using S3, DynamoDB, SQS, and Lambda
 - **Process Automation**: Creating tools that streamline workflows and improve team efficiency
 - **Collaborative Learning**: Leading study groups and contributing to peer learning initiatives
@@ -34,6 +34,9 @@ I'm passionate about applying software engineering principles to solve real-worl
 - Agile Development Methodologies
 
 ## 🚀 Featured Projects
+
+### Multi-Cloud Kubernetes Deployment Tool
+Built **Python**-based CLI tool with custom **Kahn's Algorithm** implementation for dependency resolution and resource ordering across GCP and MiniKube (local). Features offline YAML validation and Kubernetes version compatibility checking. Demonstrates algorithmic problem-solving and multi-cloud orchestration skills.
 
 ### Stack-Based Simple Machine Language (SML) Interpreter
 Built with **Java 21** featuring **Spring Framework integration** and stack-based execution model. Implemented advanced OOP concepts including **sealed classes**, **pattern matching**, and **reflection-based instruction factories**. Features comprehensive **dependency injection**, **polymorphic instruction execution**, and **enterprise-grade testing** with JUnit. Demonstrates proficiency in modern Java features, software architecture patterns, and professional development workflows. [View on GitHub](https://github.com/queenie-lee/java-sml-interpreter)
